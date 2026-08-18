@@ -1,0 +1,9 @@
+Package: com.yourname.touchattack
+Name: TouchAttack
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: 右上角自动攻击(16次/秒) + 受伤音效自动跳跃(10ms)
+Maintainer: YourName <your@email.com>
+Author: YourName
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
